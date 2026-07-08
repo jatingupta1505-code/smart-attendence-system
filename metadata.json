@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Smart Attendance AI",
+  "description": "AI-powered attendance system with Face Recognition, QR scanning, and Gemini-powered analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
