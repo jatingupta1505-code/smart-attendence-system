@@ -1,20 +1,64 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎓 Smart Attendance System Prototype
 
-# Run and deploy your AI Studio app
+A Smart Attendance System Prototype built using Google AI Studio, React, TypeScript, and Vite. This project demonstrates a modern attendance management interface for educational institutions.
 
-This contains everything you need to run your app locally.
+## 🚀 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/8926571a-c6a2-4c79-af30-b24b649a6a23
+🌐 https://timely-snickerdoodle-d26c2d.netlify.app/
 
-## Run Locally
+## 📌 Features
 
-**Prerequisites:**  Node.js
+- Student Attendance Management
+- Teacher Dashboard
+- Student Dashboard
+- Attendance Reports
+- Clean and Responsive UI
+- Prototype generated with Google AI Studio
 
+## 🛠️ Technologies Used
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Google AI Studio
+- React
+- TypeScript
+- Vite
+- HTML
+- CSS
+
+## 📂 Project Structure
+
+```
+components/
+pages/
+services/
+App.tsx
+index.tsx
+package.json
+README.md
+```
+
+## ▶️ Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+## 📷 Preview
+
+Open the Live Demo:
+
+https://timely-snickerdoodle-d26c2d.netlify.app/
+
+## 👨‍💻 Developer
+
+**Jatin Gupta**
+
+GitHub:
+https://github.com/jatingupta1505-code
+
+LinkedIn:
+https://www.linkedin.com/in/jatin-gupta-8922ba366
+
+---
+
+⭐ If you like this project, don't forget to Star this repository.
